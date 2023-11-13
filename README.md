@@ -6,9 +6,10 @@
 
 <div style="display inline_block"><br> 
 <img align=center height="30" widht="40" alt="nuNojs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img align=center height="30" widht="40" alt="nuNohtml" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align=center height="30" widht="40" alt="nuNocss" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align=center height="30" widht="40" alt="nuNomysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align=center height="30" widht="40" alt="nuNoReact" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align=center height="30" widht="40" alt="nuNoHtml" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align=center height="30" widht="40" alt="nuNoCss" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img align=center height="30" widht="40" alt="nuNoMysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <div/>
 <br>
 <div style="display inline_block">
